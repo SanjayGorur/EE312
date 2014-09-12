@@ -1,0 +1,20 @@
+Purchase George Bottles 0
+Purchase Craige Diapers 0
+Summarize
+Inventory Bottles 10
+Purchase George Bottles 11
+Summarize
+Quit
+/** test10 Results should be: **/
+There are 0 diapers, 0 bottles and 0 rattles in inventory
+we have had a total of 0 different customers
+no one has purchased any diapers
+no one has purchased any bottles
+no one has purchased any rattles
+Sorry George, we only have 10 Bottles
+There are 0 diapers, 10 bottles and 0 rattles in inventory
+we have had a total of 0 different customers
+no one has purchased any diapers
+no one has purchased any bottles
+no one has purchased any rattles
+/** end of test 10 **/

@@ -1,0 +1,95 @@
+current height is 1
+new height is 1
+There are 80 diapers, 96 bottles and 50 rattles in inventory
+we have had a total of 1 different customers
+Craig has purchased the most diapers (120)
+Craig has purchased the most bottles (4)
+no one has purchased any rattles
+
+current height is 2
+new height is 2
+There are 20 diapers, 86 bottles and 50 rattles in inventory
+we have had a total of 3 different customers
+Craig has purchased the most diapers (120)
+Sue has purchased the most bottles (10)
+no one has purchased any rattles
+
+Sorry Sue, we only have 0 Diapers
+Sorry Sue, we only have 50 Rattles
+Sorry Johnny, we only have 40 Rattles
+current height is 2
+new height is 2
+There are 30 diapers, 78 bottles and 40 rattles in inventory
+we have had a total of 3 different customers
+Sue has purchased the most diapers (150)
+Craig has purchased the most bottles (12)
+Billy has purchased the most rattles (10)
+
+current height is 10
+new height is 4
+There are 12 diapers, 86 bottles and 50 rattles in inventory
+we have had a total of 11 different customers
+Craig has purchased the most diapers (120)
+Sue has purchased the most bottles (10)
+no one has purchased any rattles
+
+current height is 0
+new height is 0
+There are 0 diapers, 0 bottles and 0 rattles in inventory
+we have had a total of 0 different customers
+no one has purchased any diapers
+no one has purchased any bottles
+no one has purchased any rattles
+
+current height is 0
+new height is 0
+There are 0 diapers, 50 bottles and 0 rattles in inventory
+we have had a total of 0 different customers
+no one has purchased any diapers
+no one has purchased any bottles
+no one has purchased any rattles
+
+Sorry Chase, we only have 50 Bottles
+current height is 0
+new height is 0
+There are 0 diapers, 50 bottles and 0 rattles in inventory
+we have had a total of 0 different customers
+no one has purchased any diapers
+no one has purchased any bottles
+no one has purchased any rattles
+
+current height is 1
+new height is 1
+There are 0 diapers, 40 bottles and 0 rattles in inventory
+we have had a total of 1 different customers
+no one has purchased any diapers
+Craig has purchased the most bottles (60)
+no one has purchased any rattles
+
+Sorry Craig, we only have 0 Bottles
+current height is 1
+new height is 1
+There are 0 diapers, 0 bottles and 0 rattles in inventory
+we have had a total of 1 different customers
+no one has purchased any diapers
+Craig has purchased the most bottles (10)
+no one has purchased any rattles
+Sorry Sue, we only have 0 Bottles
+
+current height is 0
+new height is 0
+There are 0 diapers, 0 bottles and 0 rattles in inventory
+we have had a total of 0 different customers
+no one has purchased any diapers
+no one has purchased any bottles
+no one has purchased any rattles
+Sorry George, we only have 10 Bottles
+current height is 0
+new height is 0
+There are 0 diapers, 10 bottles and 0 rattles in inventory
+we have had a total of 0 different customers
+no one has purchased any diapers
+no one has purchased any bottles
+no one has purchased any rattles
+
+The heap is all clean, good work!

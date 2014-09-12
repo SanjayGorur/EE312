@@ -1,0 +1,14 @@
+Inventory Bottles 50
+Purchase Craig Bottles 0
+Summarize
+Quit
+
+/** test6 Results should be: **/
+There are 0 diapers, 50 bottles and 0 rattles in inventory
+we have had a total of 0 different customers
+no one has purchased any diapers
+no one has purchased any bottles
+no one has purchased any rattles
+/**** end of test 6 ****/
+
+

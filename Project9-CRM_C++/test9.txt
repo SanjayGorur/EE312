@@ -1,0 +1,15 @@
+Purchase Craig Bottles 10
+Inventory Bottles 10
+Purchase Craig Bottles 10
+Summarize
+Purchase Sue Bottles 5
+Quit
+/** test9 Results should be: **/
+Sorry Craig, we only have 0 Bottles
+There are 0 diapers, 0 bottles and 0 rattles in inventory
+we have had a total of 1 different customers
+no one has purchased any diapers
+Craig has purchased the most bottles (10)
+no one has purchased any rattles
+Sorry Sue, we only have 0 Bottles
+/** end of test 9 **/

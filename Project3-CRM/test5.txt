@@ -1,0 +1,4 @@
+Summarize
+Quit
+/*** end of test 5 ***/
+

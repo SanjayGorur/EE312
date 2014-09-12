@@ -1,0 +1,15 @@
+Inventory Bottles 50
+
+Purchase Chase Bottles 100
+Summarize
+Quit
+/** test7 Results should be: **/
+Sorry Chase, we only have 50 Bottles
+There are 0 diapers, 50 bottles and 0 rattles in inventory
+we have had a total of 0 different customers
+no one has purchased any diapers
+no one has purchased any bottles
+no one has purchased any rattles
+/***** end of test 7 ******/
+
+

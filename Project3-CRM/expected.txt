@@ -1,0 +1,82 @@
+There are 80 diapers, 96 bottles and 50 rattles in inventory
+we have had a total of 1 different customers
+Craig has purchased the most diapers (120)
+Craig has purchased the most bottles (4)
+no one has purchased any rattles
+
+There are 20 diapers, 86 bottles and 50 rattles in inventory
+we have had a total of 3 different customers
+Craig has purchased the most diapers (120)
+Sue has purchased the most bottles (10)
+no one has purchased any rattles
+
+Sorry Sue, we only have 0 Diapers
+Sorry Sue, we only have 50 Rattles
+Sorry Johnny, we only have 40 Rattles
+There are 30 diapers, 78 bottles and 40 rattles in inventory
+we have had a total of 3 different customers
+Sue has purchased the most diapers (150)
+Craig has purchased the most bottles (12)
+Billy has purchased the most rattles (10)
+
+There are 100 diapers, 90 bottles and 100 rattles in inventory
+we have had a total of 1 different customers
+no one has purchased any diapers
+Donald has purchased the most bottles (10)
+no one has purchased any rattles
+There are 100 diapers, 90 bottles and 120 rattles in inventory
+we have had a total of 1 different customers
+no one has purchased any diapers
+Donald has purchased the most bottles (10)
+no one has purchased any rattles
+Sorry Sue, we only have 50 Rattles
+There are 100 diapers, 90 bottles and 50 rattles in inventory
+we have had a total of 3 different customers
+no one has purchased any diapers
+Donald has purchased the most bottles (10)
+Bob has purchased the most rattles (50)
+
+There are 0 diapers, 0 bottles and 0 rattles in inventory
+we have had a total of 0 different customers
+no one has purchased any diapers
+no one has purchased any bottles
+no one has purchased any rattles
+
+There are 0 diapers, 50 bottles and 0 rattles in inventory
+we have had a total of 0 different customers
+no one has purchased any diapers
+no one has purchased any bottles
+no one has purchased any rattles
+
+Sorry Chase, we only have 50 Bottles
+There are 0 diapers, 50 bottles and 0 rattles in inventory
+we have had a total of 0 different customers
+no one has purchased any diapers
+no one has purchased any bottles
+no one has purchased any rattles
+
+There are 0 diapers, 40 bottles and 0 rattles in inventory
+we have had a total of 1 different customers
+no one has purchased any diapers
+Craig has purchased the most bottles (60)
+no one has purchased any rattles
+
+Sorry Craig, we only have 0 Bottles
+There are 0 diapers, 0 bottles and 0 rattles in inventory
+we have had a total of 1 different customers
+no one has purchased any diapers
+Craig has purchased the most bottles (10)
+no one has purchased any rattles
+Sorry Sue, we only have 0 Bottles
+
+There are 0 diapers, 0 bottles and 0 rattles in inventory
+we have had a total of 0 different customers
+no one has purchased any diapers
+no one has purchased any bottles
+no one has purchased any rattles
+Sorry George, we only have 10 Bottles
+There are 0 diapers, 10 bottles and 0 rattles in inventory
+we have had a total of 0 different customers
+no one has purchased any diapers
+no one has purchased any bottles
+no one has purchased any rattles

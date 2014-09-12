@@ -1,0 +1,22 @@
+Inventory Bottles 100
+Inventory Rattles 100
+Inventory Diapers 100
+
+Purchase Donald Bottles 10
+
+Summarize
+
+Inventory Rattles 20
+
+Summarize
+
+Purchase Ralph Rattles 20
+Purchase Bob Rattles 50
+Purchase Sue Rattles 200
+
+
+Summarize
+Quit
+/**** end of test 4 ****/
+
+
